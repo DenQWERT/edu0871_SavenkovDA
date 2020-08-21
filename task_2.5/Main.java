@@ -11,23 +11,20 @@
 •	Текст в каждой строке должен быть уникален.
 •	Должны быть выведены все возможные комбинации. */
 
+
+
+//  Мама моет рамы циклами :
+
 public class Main {
     public static void main(String[] args) {
         String[] wds = new String[]{"Мама", "Мыла", "Раму"};
-        int ar[] = {1,2,3};
-        int len = ar.length;
-        System.out.println("--------------------");
+        int len = wds.length;
         for (int i = 0; i < len; i++){
             for (int j = 0; j < len; j++){
                 for (int k = 0; k < len; k++){
-                    if ((i!=j)&&(j!=k)&&(i!=k)){
-                        //System.out.println(ar[i] +" " + ar[j] +" "+ ar[k]);
-                        System.out.println(wds[ar[i]-1] +"" + wds[ar[j]-1] +""+ wds[ar[k]-1]);
-                    }
+                    if ((i!=j)&&(j!=k)&&(i!=k)) System.out.println(wds[i] + wds[j] + wds[k]);
                 }
             }
-
         }
-        System.out.println("-----------------");
     }
 }
