@@ -12,13 +12,15 @@
         8888888888
         */
 
+// Делаем вывод в ОДИН цикл  FOR : 
+
 public class Main {
     public static void main(String[] args) {
-        for (int i = 1; i<=10;i++){
-            for (int j=1; j<=i; j++){
-                System.out.print("8");
-            }
-            System.out.println();
+        String a10 = "8888888888";
+        char[] kurzA10= new char[10];
+        for (int i = 1; i<=10;i++) {
+            a10.getChars(0, i, kurzA10, 0);
+            System.out.println(kurzA10); // world
         }
     }
 }
