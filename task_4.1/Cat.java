@@ -23,7 +23,7 @@ public class Cat {
     public Cat() {  }
 
     public boolean fight(Cat anotherCat) {
-        int i=0;
+        int i=0; // i - Фактор победы. Чем больше i - тем больше шансов на победу. //
         if (this.age      > anotherCat.age     ) i++; else if (this.age  < anotherCat.age ) i--;
         if (this.strength > anotherCat.strength) i++; else if (this.strength < anotherCat.strength) i--;
         if (this.weight   > anotherCat.weight ) i++; else if (this.weight   < anotherCat.weight ) i--;
