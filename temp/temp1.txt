@@ -1,0 +1,1068 @@
+Успеваемость - https://docs.google.com/spreadsheets/d/13n_NoK0O7Ad_evKbM30xmwrPyaU6fEzSUUmihDwRRB8/edit#gid=0
+
+https://www.youtube.com/channel/UCVsKyxnMu3-j9BbhVqxMw3Q/videos
+
+Андроид Студио установка - https://www.youtube.com/watch?v=Kl2aLif9zpE&list=PLOep0pi-UBEwifdClviQtf1i9kSowwbAW
+
+Урок 1 - https://www.youtube.com/watch?v=8wtO-JWUc9E&feature=youtu.be
+
+Урок 2 - https://www.youtube.com/watch?v=0Vfg2DXDuqI&feature=youtu.be
+https://www.youtube.com/watch?v=0Vfg2DXDuqI&feature=youtu.be
+
+Урок №3 - https://www.youtube.com/watch?v=X3hSS8xx9ro&feature=youtu.be
+
+Урок №4 - https://www.youtube.com/watch?v=No15QQyQzRY&feature=youtu.be
+
+Урок №5 - https://www.youtube.com/watch?v=j2S-LSMR1ug&feature=youtu.be
+
+Урок №6 - https://www.youtube.com/watch?v=18tNGZDlM7Y&feature=youtu.be
+
+Урок №7 - https://www.youtube.com/watch?v=deRm-aGfmqU&feature=youtu.be  - ip 109.252.60.133
+
+Урок №8 - https://www.youtube.com/watch?v=MyKLPmLpfEM&feature=youtu.be - многопоточность
+
+Урок №9(сканирование портов и разговор по порту) - https://www.youtube.com/watch?v=2QSfzckwjr4&feature=youtu.be
+
+Урок №10 - https://www.youtube.com/watch?v=574vTWoNhQQ&feature=youtu.be
+(обработка ошибок сервера чата, VPN, Java-FX)
+ДЛя FX: 
+
+Урок №11 - https://www.youtube.com/watch?v=jtYn99S597Q&feature=youtu.be
+
+Урок 12 - https://www.youtube.com/watch?v=Dm5YketCcEE&feature=youtu.be
+
+http://developer.alexanderklimov.ru/android/
+https://developers.google.com/android/for-all/vocab-words
+https://developer.android.com/docs
+
+--module-path "C:\Program Files\Java\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml,javafx.web
+
+Лекция по трудоустройству - https://www.youtube.com/watch?v=71PTnE458Ks&feature=youtu.be
+
+Уроки на Ютубе - https://www.youtube.com/playlist?list=PLOep0pi-UBExIxCNegkvCrBuDh0TE7Ihq
+
+ гитхабе = ?
+идея с классами не работает -  - https://screencast-o-matic.com/watch/cYjb2lGKJL?utm_source=awin&utm_medium=affiliate&utm_campaign=101248&awc=16296_1597755030_83cc70bb601deaa6a8fe2a5e11a73f5d
+
+edu0871_SavenkovDA
+
+https://github.com/vladlen-vozhzhaev/edu_0871
+
+https://github.com/DenQWERT/edu0871_SavenkovDA
+Matiz635
+DenQWERT
+
+??????Расписание
+31.08.2020 в 12.30 до 17.00
+
+01.09.2020 Выходной 
+
+02.09.2020 в 12.30 до 17.00 
+
+03.09.2020 в 17.00 до 21.30
+
+04.09.2020 в 12.30 до 17.00
+
+05.09.2020 в 12.30 до 17.00
+Уважаемые слушатели Куратор группы Рязанова Елена Сергеевна уходит в отпуск с 07.09.2020 по 23.09.2020.На Данный период времени Куратор Заварцева Елизавета Евгеньевна 8 916 790 20 74  куратора в группу добавила.
+
+Как включить приложения Андроид на Виндовс 10 - https://rg.ru/2020/08/18/kak-vkliuchit-prilozheniia-android-na-windows-10.html
+
+https://www.youtube.com/watch?v=QTbjdBPKnnw
+Обход ошибки в Android studio "Your CPU does not support requiered features (VT-x of SVM)"
+Мой проц E5405 - https://ark.intel.com/content/www/ru/ru/ark/products/33079/intel-xeon-processor-e5405-12m-cache-2-00-ghz-1333-mhz-fsb.html
+Мой проц E8500 - https://ark.intel.com/content/www/ru/ru/ark/products/33911/intel-core-2-duo-processor-e8500-6m-cache-3-16-ghz-1333-mhz-fsb.html
+http://www.ohandroid.com/avd-x.html - HAXM установщик
+Альтернативный Эмулятор - Нашёл эмулятор работающий без VT-x и AMD-v. Работает шустро, функционал конечно уже не тот, не скажешь что полноценный андроид, но для разработки приложений пойдёт SmartGaGa с андроид студио дружит хорошо, но с visual studio не могу почему то использовать. 
+https://www.cyberforum.ru/android-dev/thread2499011-page2.html
+https://windowstune.ru/win7/hyper-v-windows-7.html - установка Hyper-V
+инструкция HPV - http://www.microsoft.com/ru-ru/download/details.aspx?id=7887
+--------------------
+https://www.chaynikam.info/Core_2_Duo_E8500.html
+Инструкции, технологии
+• MMX
+• SSE
+• SSE2
+• SSE3
+• SSSE3
+• SSE4.1
+• EM64T (Intel 64)
+• NX (XD, Execute disable bit)
+• VT-x (Virtualization technology)
+• VT-d (Virtualization for directed I/O)
+• TXT (Trusted Execution tech.)
+• Enhanced SpeedStep tech.
+• Stop Grant state
+• Extended Stop Grant State
+• HALT state
+• Extended HALT state
+• Sleep state
+• Deep Sleep state
+• Deeper Sleep state
+---------------
+E5405 - https://www.chaynikam.info/Xeon_E5405.html
+Инструкции, технологии
+• MMX
+• SSE
+• SSE2
+• SSE3
+• SSSE3
+• SSE4.1
+• EM64T (Intel 64)
+	• NX (XD, Execute disable bit)
+• VT-x (Virtualization technology)
+• Enhanced SpeedStep tech.
+• Stop Grant state
+• Halt state
+• Extended Halt state
+---------------------------------------
+A X2-280 
+https://www.chaynikam.info/Athlon_II_X2_280.html
+Инструкции, технологии
+• MMX
+• 3DNow!
+• SSE
+• SSE2
+• SSE3
+• SSE4A
+• AMD64
+• EVP (Enhanced Virus Protection)
+• AMD-V (AMD Virtualization)
+• Cool’n’Quiet 3.0
+• CoolCore Technology
+• Dual Dynamic Power Management
+-------------------------------------------
+
+
+import java.util.Scanner;
+public class Auth {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String login = scanner.nextLine();
+        if (login.equals("admin")){
+            System.out.println("Логин admin принят, введите пароль");
+            String password = scanner.nextLine();
+            if (password.equals("123")){
+                System.out.println("Доступ разрешен");
+            }else {
+                System.out.println("Нет доступа");
+            }
+        }else if (login.equals("user")){
+            System.out.println("Логин user принят, введите пароль");
+            String password = scanner.nextLine();
+            if (password.equals("321")){
+                System.out.println("Доступ разрешен");
+            }else {
+                System.out.println("Нет доступа");
+            }
+        }
+        else{
+            System.out.println("Нет доступа");
+        }
+    }
+}
+---------------------------------------------
+
+/* Программа запрашивает у пользователя значение в градусах Цельсия. Программа должена переводить температуру и выводить на экран
+значение в градусах Фаренгейта.
+Температура по Цельсию TC и температура по Фаренгейту TF связаны следующим соотношением:
+TF = (9 / 5) * TC + 32
+Пример:
+на вход подается значение 41.
+Пример вывода:
+105.8 */
+
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Введите значение температуры в градусах, по Цельсию(С) = ");
+        float cels = scanner.nextFloat();
+        System.out.println("Вы ввели "+cels+" градусов по Цельсию(C)");
+        float frg = (9*cels/5 + 32);
+        System.out.println("Это соответствует " + frg + " градусов по Фаренгейту (Ft)");
+    }
+}
+---------------------------------------
+
+/* Написать функцию, которая вычисляет минимум из трёх чисел.
+Требования:
+•	Программа должна выводить текст на экран.
+•	Метод min не должен выводить текст на экран.
+•	Метод main должен вызвать метод min четыре раза.
+•	Метод main должен выводить на экран результат работы метода min. Каждый раз с новой строки.
+•	Метод min должен возвращать минимальное значение из чисел a, b и с.
+*/
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(min(1, 2, 3));
+        System.out.println(min(-1, -2, -3));
+        System.out.println(min(3, 5, 3));
+        System.out.println(min(5, 5, 10));
+    }
+
+    public static int min(int a, int b, int c) {
+        if (a<b) {
+            if (a<c) { return a; }
+            else if (c <= a) { return c; }
+        }
+        else if (b < c)  { return b; }
+        return c;
+        }
+}
+----------------------------------------------------
+/*
+Написать функцию, которая вычисляет минимум из четырёх чисел.
+Функция min(a,b,c,d) должна использовать (вызывать) функцию min(a,b)
+Подсказка:
+Нужно написать тело двух существующих функций min.
+Требования:
+•	Программа должна выводить текст на экран.
+•	Методы min не должны выводить текст на экран.
+•	Метод main должен вызывать метод min(a, b) и метод min(a, b, c, d).
+•	Метод main должен выводить на экран результат работы методов min. Каждый раз с новой строки.
+•	Метод min(a, b) должен возвращать минимальное значение из чисел a, b.
+•	Метод min(a, b, c, d) должен использовать метод min(a, b)
+•	Метод min(a, b, c, d) должен возвращать минимальное значение из чисел a, b, c, d.
+*/
+
+public class Main {
+    public static int min(int a, int b, int c, int d) {
+        if ( min(a, b) <= min(c, d) )  return min(a, b);
+        return min(c, d);
+    }
+
+    public static int min(int a, int b) {
+        if ( a<=b ) return a;
+        return b;
+    }
+
+    public static void main(String[] args) throws Exception {
+        System.out.println(min(-20, -10));
+        System.out.println(min(-40, -10, -30, 40));
+        System.out.println(min(-20, -40, -30, 40));
+        System.out.println(min(-20, -10, -40, 40));
+        System.out.println(min(-20, -10, -30, -40));
+    }
+}
+
+-------------------------------------------------
+/*
+Вывести на экран произведение 10 чисел от 1 до 10.
+Результат - это 1 число.
+Подсказка:
+будет три миллиона с хвостиком.
+Требования:
+•	Программа должна выводить целое число на экран.
+•	Метод main должен вызывать функцию System.out.println.
+•	Выведенное число должно быть больше трех миллионов.
+•	Выведенное число должно соответствовать заданию.
+*/
+
+public class Main {
+    public static void main(String[] args) {
+        int fakt10=1;
+        for (int i=1;i<=10;i++)
+            fakt10*=i;
+        System.out.println(fakt10);
+    }
+}
+------------------------------------------------
+/*
+Вывести на экран сумму чисел от 1 до 5 построчно (должно быть 5 строк):
+1
+1+2=3
+1+2+3=6
+...
+Пример вывода:
+1
+3
+6
+...
+Требования:
+•	Программа должна выводить текст.
+•	Выведенный текст должен содержать 5 строк.
+•	Число в каждой новой строке должно быть больше предыдущего.
+•	Выводимый текст должен соответствовать заданию.*/
+
+public class Main {
+    public static void main(String[] args) {
+        int sum = 0;
+        for (int i = 1; i <= 5; i++) {
+            sum += i;
+            System.out.println(sum);
+        }
+    }
+}
+-----------------------------------------------
+/*Выведи на экран таблицу умножения 10 на 10 в следующем виде:
+1 2 3 4 ...
+2 4 6 8 ...
+3 6 9 12 ...
+4 8 12 16 ...
+... */
+public class Main {
+    public static void main(String[] args) {
+        String c;
+        for (int i=1; i<=10; i++){
+            for (int j=1; j<=10; j++){
+                if ((i*j)<10) c="  ";
+                else c=" ";
+                System.out.print(i*j+c);
+             }
+            System.out.println();
+        }
+    }
+}
+-------------------------------------------
+public class Main {
+    public static void main(String[] args) {
+        String[] words = new String[]{"Мама", "Мыла", "Раму"};
+        int currentIndex = 0;
+        for (int i = 0; i < words.length; i++) {
+            System.out.println(words[currentIndex % words.length] + words[((currentIndex + 1) % words.length)] + words[((currentIndex + 2) % words.length)]);
+            System.out.println(words[currentIndex % words.length] + words[((currentIndex + 2) % words.length)] + words[((currentIndex + 1) % words.length)]);
+            currentIndex++;
+        }
+    }
+}
+---------------------------------------------
+public class Main {
+    public static void main(String[] args) {
+        String[] words = new String[]{"Мама", "Мыла", "Раму"};
+        int len = words.length;
+        for (int i = 0; i < len; i++)  System.out.println(words[i % len] + words[((i + 1) % len)] + words[((i + 2) % len)]);
+            String c;
+            c=words[0];
+            words[0]=words[1];
+            words[1]=c;
+        for (int i = 0; i < len; i++)  System.out.println(words[i % len] + words[((i + 1) % len)] + words[((i + 2) % len)]);
+    }
+}
+----------------------------------------------
+public class Main {
+    public static void main(String[] args) {
+        String[] words = new String[]{" 1-Мама", " 2-Мыла", " 3-Раму", " 4 - Папа"};
+        int len = words.length;
+        for (int i = 0; i < len; i++)  System.out.println(words[i % len] + words[((i + 1) % len)] + words[((i + 2) % len)]);
+            String c;
+            c=words[0];
+            words[0]=words[1];
+            words[1]=c;
+        for (int i = 0; i < len; i++)  System.out.println(words[i % len] + words[((i + 1) % len)] + words[((i + 2) % len)]);
+    }
+}
+---------------------------------------------
+// Программа для размена монет с помощью циклов
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Укажите на какую сумму вам насыпать монеток?  ");
+        int summa = scanner.nextInt();
+        System.out.println("Насыпаем монеток на сумму равную " + summa + " рублей");
+        razmen(summa);
+
+    }
+    static void razmen(int summa){  // Метод рассчитывающий сколько монет насыпать
+
+            int d10 = 0, d5 = 0, d2 = 0, d1 = 0;
+            while (summa >= 10) {
+                System.out.println("Примите десяточку - 10 рублей");
+                summa -= 10; // Вычитаем десятку из оставшейся суммы
+                d10++;
+            }
+            while (summa >= 5) {
+                System.out.println("Примите пятачок -  5 рублей");
+                summa -= 5; // Вычитаем пятерку из оставшейся суммы
+                d5++;
+            }
+
+            while (summa >= 2) {
+                System.out.println("Примите двушечку -  2 рублей");
+                summa -= 2; // Вычитаем два рубля из оставшейся суммы
+                d2++;
+            }
+
+            while (summa >= 1) {
+                System.out.println("Примите рублик -  1 рубль");
+                summa -= 1; // Вычитаем десятку из оставшейся суммы
+                d1++;
+            }
+
+            System.out.println("Итого выполнен размен: Десяток = " + d10 + " / Пятачков = " + d5 + " / Двушек = " + d2 + " / Рубликов = " + d1 + "  на сумму, равную " + (10 * d10 + 5 * d5 + 2 * d2 + d1) + " рублей.");
+            System.out.println("==========================================================================");
+        }
+}
+-------------------------------------------
+/}}{ЪХ+_\\/\\\\\""""		||||  \\\\\\\\\\\\||||\\\\\\\\////|\\\\\||\||||hgjh
+----------------------------------------------
+public class Main {
+    public static void main(String[] args) {
+        String[] wds = new String[]{" 1-Мама", " 2-Мыла", " 3-Раму"};
+        int ar[] = {1,2,3};
+        //int ar39[][];
+        int [][] ar39 = new int[3][9];
+        int len = ar.length;
+        for (int i = 0; i < len; i++){
+            for (int j = 0; j < len; j++){
+                for (int k = 0; k < len; k++){
+                    if ((i!=j)&&(j!=k)&&(i!=k)){
+                        //System.out.println(ar[i] +" " + ar[j] +" "+ ar[k]);
+                        System.out.println(wds[ar[i]-1] +" " + wds[ar[j]-1] +" "+ wds[ar[k]-1]);
+                    }
+                }
+            }
+            System.out.println("--------------------");
+        }
+    }
+}
+-------------------------------------------------------
+//  Мама моет рамы циклами :
+public class Main {
+    public static void main(String[] args) {
+        String[] wds = new String[]{"Мама", "Мыла", "Раму"};
+        int len = wds.length;
+        for (int i = 0; i < len; i++){
+            for (int j = 0; j < len; j++){
+                for (int k = 0; k < len; k++){
+                    if ((i!=j)&&(j!=k)&&(i!=k)) System.out.println(wds[i] + wds[j] + wds[k]);
+                }
+            }
+        }
+    }
+}
+-------------------------------------------------------------
+//  Мама моет рамы рекурсиями без циклов в классе Rama.java
+public class Rama {
+    public static int close = 0;
+    public static String[] wds = new String[]{" 1-Мама", " 2-Мыла", " 3-Раму"};
+    public static int len = wds.length;
+
+    static void rekurs(int i, int j, int k ) {
+        if (i < len) {
+            if ((j < len)&&(close==0)) {
+                if ((k < len)&&(close==0)) {
+                    if ((i != j) && (j != k) && (i != k)) System.out.println(wds[i] + wds[j] + wds[k]);
+                    k++;
+                    if ((k < len)&&(close==0)) { rekurs(i, j, k);  }
+                }
+                j++; k=0;
+                if ((j < len)&&(close==0)) { rekurs(i, j, k);  }
+            }
+            i++; j=0;
+            if (i>=len)  close=1;
+            if ((i<len)&&(close==0)) { rekurs(i, j, k); }
+        }
+    }
+
+    public static void main(String[] args) {
+        rekurs(0,0,0);
+        }
+}
+---------------------------------------
+public class Cat {
+    public int age;
+    public int weight;
+    public int strength;
+
+    public Cat() {  }
+
+    public boolean fight(Cat anotherCat) {
+        int i=0;
+        if (this.age      > anotherCat.age     ) i++; else if (this.age  < anotherCat.age ) i--;
+        if (this.strength > anotherCat.strength) i++; else if (this.strength < anotherCat.strength) i--;
+        if (this.weight   > anotherCat.weight ) i++; else if (this.weight   < anotherCat.weight ) i--;
+        if (i>0) return true;
+        else if (i<0) return false;
+        else {
+            if (this.hashCode() >= (anotherCat.hashCode()))  return true;
+            if (this.hashCode() <  (anotherCat.hashCode()))  return false;
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+        /*/
+        /=======================ПРОВЕРКА===============================
+        Cat cat1 = new Cat();
+        Cat cat2 = new Cat();
+        Cat cat3 = new Cat();
+        cat1.age=20; cat1.weight=8; cat1.strength=200;
+        cat2.age=20; cat2.weight=4; cat2.strength=500;
+        cat3.age=20; cat3.weight=4; cat3.strength=500;
+        System.out.println("Кот 1: Возраст " +cat1.age+" /  Вес "+cat1.weight+" /  Сила "+cat1.strength);
+        System.out.println("Кот 2: Возраст " +cat2.age+" /  Вес "+cat2.weight+" /  Сила "+cat2.strength);
+        System.out.println("Кот 3: Возраст " +cat3.age+" /  Вес "+cat3.weight+" /  Сила "+cat3.strength);
+        if (cat1.fight(cat2)) {System.out.println("Кот 1 победил Кота 2");}  else System.out.println("Кот 2 победил Кота 1");
+        if (cat2.fight(cat1)) {System.out.println("Кот 2 победил Кота 1");}  else System.out.println("Кот 1 победил Кота 2");
+        if (cat2.fight(cat3)) {System.out.println("Кот 2 победил Кота 3");}  else System.out.println("Кот 3 победил Кота 2");
+        if (cat3.fight(cat2)) {System.out.println("Кот 3 победил Кота 2");}  else System.out.println("Кот 2 победил Кота 3");
+        //=======================КОНЕЦ ПРОВЕРКИ=========================
+        */
+    }
+}
+
+----------------------------------------------------------------
+/*
+Перед решением прочтите https://www.codeflow.site/ru/article/java-buffered-reader
+Задача: Программа определяет, какая семья (фамилию) живёт в доме с указанным номером.
+Новая задача: Программа должна работать не с номерами домов, а с городами:
+Пример ввода:
+Москва
+Ивановы
+Киев
+Петровы
+Лондон
+Абрамовичи
+Лондон
+Пример вывода:
+Абрамовичи */
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+
+/*
+Модернизация ПО
+*/
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        // ==== Объявили переменную reader типа класса BufferedReader для чтения данных с консоли ===
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        // === Объявили переменные name и city типа ArrayList<> состоящие из объектов String
+        List<String> name = new ArrayList<>(); // Список имен
+        List<String> city = new ArrayList<>(); // Список фамилий
+
+        //=========================НАЧАЛЬНЫЕ ИНСТРУКЦИИ ДЛЯ ПОЛЬЗОВАТЕЛЯ НА ЭКРАНЕ: ==============================
+        System.out.println("Введите города и фамилии проживающих в них семей. ");
+        System.out.println("По формату: Город, Энтер, Фамилия, Энтер.  ");
+        System.out.println("(по окончанию ввода нажмите еще один раз Энтер и перейдёте к поиску Семей по названиям городов)");
+        
+        // =================== Читаем текст с консоли до ввода пустой строки =================================
+        while (true) {
+
+            // Читаем значение города
+            String gorod = reader.readLine();
+            if (gorod.isEmpty()) {
+                break; // если введена пустая строка, то закончить цикл
+            }
+		
+            // Читаем значение фамилии
+            String family = reader.readLine();
+            if (family.isEmpty()) {
+                break; // если введена пустая строка, то закончить цикл
+            }
+
+            city.add(gorod);    // Добавляем город в список городов
+            name.add(family);   // Добавляем фамилию в список фамилий
+        }
+
+        System.out.println("Вы ввели Name(Фамилии): "+ name );
+        System.out.println("Вы ввели City(Города): "+ city );
+
+// ===================== переходим к поиску семей живущих в требуемом городе =============================
+        String cityfind="000"; // ==== искомый город ================
+        // =================== Запрашиваем в каком городе искать ====
+        System.out.println("Выберите город из списка выше для поиска семей живущих в нем : ");
+
+        while (true) {  // == Цикл поиска по городам до посинения ====
+            cityfind = reader.readLine();
+            System.out.println("Вы ищите тех кто живет в городе : " + cityfind);
+            
+	    // ====   Если запрашиваемый город в списке отсутствует ====
+            if (city.lastIndexOf(cityfind) == -1) System.out.println("Нет такого города в списке ");
+            
+	    // =====   Если запрашиваемый город в списке присутствует ====
+            if (city.lastIndexOf(cityfind) >= 0) { // если такой город в списке есть
+                System.out.println("Город в списке : " + (1 + city.lastIndexOf(cityfind)));
+             
+            // ==== Выводим фамилию проживающей в городе семьи ====
+                String findFamily = name.get(city.lastIndexOf(cityfind));
+                System.out.println("В городе " + cityfind + " живет семья : " + findFamily);
+            }
+
+            System.out.println("Введите название следующего города для продолжения поиска ");
+        }
+    }
+}//============================ КОНЕЦ ПРОГРАММЫ ============================================================
+-----------------------
+/*
+1. Ввести имя файла с консоли.
+2. Прочитать из него набор чисел.
+3. Вывести на консоль только четные, отсортированные по возрастанию.
+Пример ввода:
+5
+8
+-2
+11
+3
+-5
+2
+10
+Пример вывода:
+-2
+2
+8
+10
+*/
+package Task_5_2;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.lang.Integer;
+import java.util.Collections;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        ArrayList<Integer> data = new ArrayList<>();
+
+        File tcatalog = new File(new File(".").getAbsolutePath());
+        System.out.println(tcatalog.getCanonicalPath());
+
+        //String tcatalog = System.getProperty("user.dir");
+        //System.out.println("Рабочий каталог - " + tcatalog );
+        // System.out.println(new File("").getAbsolutePath());
+        String fullpath = tcatalog.getCanonicalPath()+(char)92 + "src"+(char)92+"Task_5_2"+(char)92+"datafile.txt";
+        System.out.println("Рабочий каталог - " + fullpath);// tcatalog.getCanonicalPath()+(char)92 + "src"+(char)92+"Task_5_2"+(char)92+"datafile.txt" );
+
+        FileInputStream finput = new FileInputStream(fullpath);
+
+/*
+        int k=-1;
+        while ((k=finput.read())!=-1) {
+             System.out.print((char)k);
+        }
+        System.out.println();
+*/
+        int k=-1;
+        //Integer csl = new Integer(0);
+        int csl = 0;
+        String bufferInt="";
+        while ((k=finput.read())!=-1) {
+            if ((k!=13)&(k!=10))/*(((char)k)!=((char)13))*/ {
+                bufferInt+=((char)k);
+
+                //System.out.print("Считан символ : " + (char) k);
+                //System.out.println("Считано число - " + bufferInt);
+            }
+            else if (bufferInt!=""){
+                System.out.println("Считано число : " + bufferInt);
+                  //System.out.println("Int: "+ Integer.parseInt(bufferInt));
+                csl = Integer.parseInt(bufferInt);
+                data.add(csl);
+                bufferInt="";
+            }
+        }
+        System.out.println("Загружены числа :"+data);
+        finput.close();
+        System.out.println("============ Переходим к сортировке и поиску четных чисел ==================");
+//========================================== Старый код =================================
+/*        System.out.print("Вводите только целые числа через Энтер \n");
+        while (true) {
+            String chisloString = reader.readLine(); //читаем следующее число в следующей строке
+            if (chisloString.isEmpty()) { break; }
+            int chislo = Integer.parseInt(chisloString);
+            data.add(chislo);   // Добавляем число в коллекцию
+            System.out.println("Введенно число :"+chislo+" ");
+        }
+        System.out.println("Вы ввели числа :"+data);
+ */
+        Collections.sort(data);
+        System.out.println("Числа отсортированы по возростанию :"+data);
+        //========================  Вывод только чётных чисел =============================
+        int count2=0;
+        for (int i=0; i<(data.size()); i++) {
+            if ((data.get(i))%2==0) {
+                System.out.println("Обнаружено чётное число:  " + data.get(i));
+                // else System.out.println("Нечетное число:  "+data.get(i));
+                count2++;
+            }
+        }
+        if (count2==0) System.out.println("Четные числа в файле не обнаружены");
+        // System.out.println();
+        System.out.println("========== Работа программы окончена. Успехов в изучении Java! =============");
+    }
+}
+---------------------------------
+/*
+1. Ввести имя файла с консоли.
+2. Прочитать из него набор чисел.
+3. Вывести на консоль только четные, отсортированные по возрастанию.
+Пример ввода:
+5
+8
+-2
+11
+3
+-5
+2
+10
+Пример вывода:
+-2
+2
+8
+10
+*/
+package Task_5_2;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.lang.Integer;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        Scanner scanner = new Scanner(System.in);
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        ArrayList<Integer> data = new ArrayList<>();  // data - массив для считываемых чисел из файла
+        File tcatalog = new File(new File(".").getCanonicalPath());//(getAbsolutePath());
+        String fullpath;
+        //===================================== Запрашиваем адрес файла у пользователя ==================
+        System.out.println("Укажите полный путь к файлу где содержатся целые числа на каждой строке");
+        System.out.println("или укажите название файла из директории "+ tcatalog.getCanonicalPath());
+        String namefile = scanner.nextLine();
+        // - Если пользователь ввел полный путь к файлу определяем по наличию символа ":" в пути -
+        if (namefile.indexOf(':')>0) fullpath = namefile;
+        // - Если пользователь ввел только имя файла, то ищем его в директории которую возвращает метод getCanonicalPath()  -
+        else {
+            System.out.println("Вы ввели " + namefile);
+            fullpath = tcatalog.getCanonicalPath() + (char) 92 + namefile;
+        }
+        // - Контрольное сообщение о том где програма, в итоге, собирается искать файл -
+        System.out.println("Ищем файл по адресу   " + fullpath);
+        FileInputStream finput = new FileInputStream(fullpath);
+
+//================================= ЧИТАЕМ ПОЛУЧЕННЫЙ ОТ ПОЛЬЗОВАТЕЛЯ ФАЙЛ ПОСИМВОЛЬНО =====================
+        int k=-1;   // - ascii номер считанного символа -
+        int csl = 0; // - служебный буфер для добавления числа в коллекцию data -
+        String bufferInt="";   // - строковый буфер для наполнения текущего числа новыми символами из файла -
+        do { // ======= Читаем файл посимвольно пока не достигнем конца файла =======
+            k=finput.read();
+            // - Если считанный символ не равен концу строки, переносу строки или концу файла
+            if ((k!=13)&(k!=10)&(k!=-1))/*(((char)k)!=((char)13))*/ {
+                bufferInt+=((char)k); // - Прибавляем символ к текущей цифре -
+                //System.out.print("Считан символ : " + (char) k);
+            }
+            // - Если считан спецсимвол 10 или 13 или конец строки и bufferInt не пустой, то добавляем получившееся число в коллецию data -
+            else if (bufferInt!=""){
+                System.out.println("Считано число : " + bufferInt); // - Контрольное сообщение на экран, о числе которое удалось считать в виде строки-
+                csl = Integer.parseInt(bufferInt); // - Преобразуем счинанную строку в число -
+                data.add(csl);  // - Добавляем число в коллекцию data -
+                bufferInt="";   // - На всякий случай. Для профилактики. -
+            }
+        } while (k!=-1);  // - Конец цикла по достижению конца файла -
+
+        System.out.println("Загружены числа :"+data);  // - Выводим на экран что в итоге считали в коллекцию data -
+        finput.close(); // - Закрываем файл -
+
+// ===================================  СОРТИРУЕМ ПОЛУЧЕННЫЕ ЧИСЛА И ИЩЕМ ЧЕТНЫЕ ===========================================
+        System.out.println("============ Переходим к сортировке и поиску четных чисел ==================");
+        Collections.sort(data); // - Вот и вся сортировка .... -
+        System.out.println("Числа отсортированы по возростанию :"+data);
+        //========================  Вывод только чётных чисел =============================
+        int count2=0;
+        for (int i=0; i<(data.size()); i++) {
+            if ((data.get(i))%2==0) {
+                System.out.println("Обнаружено чётное число:  " + data.get(i));
+                // else System.out.println("Нечетное число:  "+data.get(i));
+                count2++;
+            }
+        }
+        if (count2==0) System.out.println("Четные числа в файле не обнаружены");
+        // System.out.println();
+        System.out.println("========== Работа программы окончена. Успехов в изучении Java! =============");
+    }
+}
+---------------------------------------------------
+
+3.11.214.31:80
+51.68.207.81:80
+211.238.149.51:3128
+13.125.192.107:80
+13.125.180.174:80
+13.124.117.219:80
+185.114.137.14:5056
+47.52.193.158:3128
+209.45.53.53:3128
+85.111.62.162:3128
+3.101.54.245:80
+194.79.56.6:80
+1.1.1.190:80
+54.94.152.107:80
+1.0.0.204:80
+1.0.0.165:80
+1.1.1.3:80
+1.1.1.53:80
+1.1.1.80:80
+1.1.1.137:80
+1.1.1.214:80
+1.1.1.253:80
+1.1.1.170:80
+35.181.61.48:80
+1.0.0.99:80
+1.0.0.41:80
+1.0.0.9:80
+1.0.0.219:80
+1.0.0.93:80
+1.0.0.107:80
+1.0.0.201:80
+1.1.1.25:80
+1.1.1.18:80
+1.1.1.31:80
+1.1.1.48:80
+1.1.1.64:80
+1.1.1.81:80
+1.1.1.95:80
+1.1.1.96:80
+1.1.1.122:80
+1.1.1.124:80
+1.1.1.101:80
+1.1.1.117:80
+1.1.1.207:80
+1.1.1.236:80
+1.1.1.225:80
+1.1.1.212:80
+1.0.0.14:80
+1.0.0.151:80
+1.0.0.53:80
+1.0.0.130:80
+1.0.0.233:80
+1.0.0.36:80
+1.0.0.69:80
+1.0.0.74:80
+1.0.0.101:80
+1.0.0.217:80
+1.0.0.221:80
+1.0.0.222:80
+1.0.0.226:80
+1.1.1.9:80
+1.1.1.35:80
+1.1.1.40:80
+1.1.1.51:80
+------------------------------
+public class MultiThread {
+    public static void main(String[] args) {
+        /*
+        //Способ №1
+        MyThread t1 = new MyThread();
+        MyThread t2 = new MyThread();
+        t1.start();
+        t2.start();*/
+
+
+        /*
+        //Способ №2
+        Thread t1 = new Thread(new MyRunnableClass());
+        Thread t2 = new Thread(new MyRunnableClass());
+        t1.start();
+        t2.start();*/
+
+        //Способ №3
+        Thread t1 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 500; i < 600; i++) {
+                    System.out.println(i);
+                }
+            }
+        });
+
+        Thread t2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 900; i > 800 ; i--) {
+                    System.out.println(i);
+                }
+            }
+        });
+
+        t1.start();
+        t2.start();
+
+    }
+}
+
+class MyRunnableClass implements Runnable{
+    @Override
+    public void run(){
+        for (int i = 0; i < 100; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+//class MyThread extends Thread{
+//    @Override
+//    public void run(){
+//        for (int i = 0; i < 100; i++) {
+//            System.out.println(getName()+":"+i);
+//        }
+//    }
+//}
+-------------------------------------------------------------------------------
+//  ============   ПроксиЧекер2 - Используем класс - MyRunnableClass ======================
+import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.*;
+import java.util.Arrays;
+
+public class ProxyCheckerN2 {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Программа сканирования списка адресов Прокси-серверов на предмет их доступности.");
+        System.out.println("Данные по адресам прокси-серверов будут считываться с файла C://java/test.txt");
+        System.out.println("Читаем файл с адресами и запускаем опрос Прокси-серверов.");
+        FileReader reader = new FileReader("C://java/test.txt");
+        int c;
+        String ipList = "";
+        while ((c=reader.read())!=-1){
+            ipList += (char)c;
+        }
+        String[] ipListArray = ipList.split("\r");
+        for (int i = 0; i < ipListArray.length; i++) {
+            String[] splitString = ipListArray[i].split(":");
+            String ip = splitString[0].trim();
+            int port = Integer.parseInt(splitString[1]);
+            Thread t1 = new Thread(new MyRunnableClass(ip,port,i));
+            //MyThread t1 = new MyThread(ip,port);
+            t1.start();
+        }
+    }
+}
+
+class MyRunnableClass implements Runnable{
+//class MyThread extends Thread{
+    String ip;
+    int port;
+    int i;
+//
+    public MyRunnableClass(String ip, int port, int i) {
+        this.ip = ip;
+        this.port = port;
+        this.i = i;
+    }
+    @Override
+    public void run(){
+        Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(ip, port));
+        try {
+            URLConnection connection = new URL("https://vozhzhaev.ru/test.php").openConnection(proxy);
+            InputStream is = connection.getInputStream();
+            InputStreamReader reader = new InputStreamReader(is);
+            char[] buffer = new char[256];
+            int rc;
+            StringBuilder sb = new StringBuilder();
+            while ((rc = reader.read(buffer)) != -1)
+                sb.append(buffer, 0, rc);
+            reader.close();
+            System.out.println("Поток - "+ i +" - ip: "+ip+":"+port+" - ==== ДОСТУПЕН ====");
+        }catch (Exception e){
+            System.out.println("Поток - "+ i +" - ip: "+ip+":"+port+" - недоступен");
+        }
+    }
+}
+// ==========================================  КОНЕЦ ПРОГРАММЫ =======================================================
+----------------------------------------------------------------------------
+//  ============   ПроксиЧекер3 - Используем класс - Runnable ======================
+import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.*;
+import java.util.Arrays;
+
+public class ProxyCheckerN3 {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Программа сканирования списка адресов Прокси-серверов на предмет их доступности.");
+        System.out.println("Данные по адресам прокси-серверов будут считываться с файла C://java/test.txt");
+        System.out.println("Читаем файл с адресами и запускаем опрос Прокси-серверов.");
+        FileReader reader = new FileReader("C://java/test.txt");
+        int c;
+        String ipList = "";
+        while ((c=reader.read())!=-1){
+            ipList += (char)c;
+        }
+        String[] ipListArray = ipList.split("\r");
+
+        for (int i = 0; i < ipListArray.length; i++) {
+            String[] splitString = ipListArray[i].split(":");
+            String ip = splitString[0].trim();
+            int port = Integer.parseInt(splitString[1]);
+            Thread t1 = new Thread(new Runnable(){
+
+                @Override
+                public void run() {
+                    Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(ip, port));
+                    try {
+                        URLConnection connection = new URL("https://vozhzhaev.ru/test.php").openConnection(proxy);
+                        InputStream is = connection.getInputStream();
+                        InputStreamReader reader = new InputStreamReader(is);
+                        char[] buffer = new char[256];
+ //                       int rc;
+//                        StringBuilder sb = new StringBuilder();
+//                        while ((rc = reader.read(buffer)) != -1)
+//                            sb.append(buffer, 0, rc);
+                        reader.close();
+                        System.out.println("ip: "+ip+":"+port+" - ==== ДОСТУПЕН !!! ====");
+                    }catch (Exception e){
+                        System.out.println("ip: "+ ip+":"+port+" - недоступен");
+                    }
+                }
+            });
+            t1.start();
+        }
+    }
+}
+// ==========================================  КОНЕЦ ПРОГРАММЫ =======================================================
+---------------------------------------
+http://forum.oszone.net/post-2107260.html
+Анастасия С, попробуйте в командной строке (cmd.exe) от имени Администратора выполнить:
+Код: Выделить весь код
+
+attrib +h +s "%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
+attrib +h +s "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
+
+-------------------------------
+// ================  МАМА-МЫЛА-РАМУ в ОДИН ЦИКЛ ===============================
+public class ForExperiment {
+    public static void main(String[] args) {
+        String[] wds = new String[]{" 1-Мама", " 2-Мыла", " 3-Раму"};
+        int len = wds.length;
+//======================== один цикл ===========================================        
+        for (int i=0 , j=0, k=0, r=0; ((i+j+k)<(len*len)); r++){
+            k=r%len+1;
+            j=(int) (r/len+1) - 3*((int)(r/(len*len))) ; //if (j>3) j-=3; = r/3
+            i=(int) (r/(len*len)+1);
+            //System.out.println(" Итерация i = " + i +" j = "+ j+" k = "+ k +" r = "+r);
+            if ((i!=j)&&(j!=k)&&(i!=k)) System.out.println(wds[i-1] +" " + wds[j-1] +" "+ wds[k-1]);;
+        }
+    }
+}
+//====================================== КОНЕЦ ПРОГРАММЫ ==========================
+--------------------------------------
+// ================  МАМА-МЫЛА-РАМУ в ОДИН ЦИКЛ ===============================
+public class ForExperiment {
+    public static void main(String[] args) {
+        String[] wds = new String[]{" 1-Мама", " 2-Мыла", " 3-Андроид"};
+        int len = wds.length;
+//======================== один цикл ===========================================
+        for (int i=0 , j=0, k=0, r=0; ((i+j+k)<(len*len)); r++){
+            k=r%len+1;
+            j=(int) (r/len+1) - 3*((int)(r/(len*len))) ; //if (j>3) j-=3; = r/3
+            i=(int) (r/(len*len)+1);
+            //System.out.println(" Итерация i = " + i +" j = "+ j+" k = "+ k +" r = "+r);
+            if ((i!=j)&&(j!=k)&&(i!=k)) System.out.println(wds[i-1] +" " + wds[j-1] +" "+ wds[k-1]);;
+        }
+    }
+}
+//====================================== КОНЕЦ ПРОГРАММЫ ==========================
+--------------------------------------
